@@ -1,0 +1,1 @@
+# TestLogger4AppInsight
